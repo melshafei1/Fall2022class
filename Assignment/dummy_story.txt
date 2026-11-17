@@ -2,3 +2,4 @@ Once upon a time, in a far away kingdom there lived a rich man, who had three so
 Simeon (a soldier), Tarras (a fat man), and Ivan (a fool).
 Mohamed added this sentence to the dummy story.
 
+The students used Python to predict the growth of a bacterial colony.
